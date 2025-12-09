@@ -1,7 +1,6 @@
 import javax.swing.*; 
 public class MainApp { 
     public static void main(String[] args) { 
-        JFrame frame = new JFrame("Hotel Reservation System"); 
         JTabbedPane tabs = new JTabbedPane(); 
         
         tabs.addTab("Employees", new EmployeePanel()); 
@@ -17,4 +16,5 @@ public class MainApp {
     }
 
 }
+
 
