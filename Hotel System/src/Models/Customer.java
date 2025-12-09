@@ -1,4 +1,5 @@
 package Models;
+ public class Customer { 
     private int id; 
     private String name; 
     private String phone; 
@@ -11,4 +12,5 @@ package Models;
     } 
 
 } // Getters and Setters }
+
 
