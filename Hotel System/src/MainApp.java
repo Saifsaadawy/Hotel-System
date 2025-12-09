@@ -13,5 +13,7 @@ public class MainApp {
         frame.add(tabs); frame.setSize(700, 500); 
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); 
         frame.setVisible(true); 
-    } 
+
+        
+
 }
