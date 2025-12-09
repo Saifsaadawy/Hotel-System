@@ -12,5 +12,6 @@ public class Reservation {
         this.checkIn = checkIn; 
         this.checkOut = checkOut; 
         this.totalBill = totalBill; 
-    }
+  
 } // Getters and Setters }
+
