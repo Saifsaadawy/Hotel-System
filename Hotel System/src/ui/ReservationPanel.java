@@ -4,5 +4,6 @@ import javax.swing.*;
 public class ReservationPanel extends JPanel { 
     public ReservationPanel() { 
         add(new JLabel("Reservation Module")); 
-    } 
+
+
 }
